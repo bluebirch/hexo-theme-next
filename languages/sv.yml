@@ -1,0 +1,119 @@
+name: Svenska
+
+title:
+  archive: Arkiv
+  category: Kategori
+  tag: Etikett
+  schedule: Kalender
+
+menu:
+  home: Hem
+  archives: Arkiv
+  categories: Kategorier
+  tags: Etiketter
+  about: Om
+  search: Sök
+  schedule: Kalender
+  sitemap: Sitemap
+  commonweal: Commonweal 404
+
+sidebar:
+  overview: Översikt
+  toc: Innehåll
+  links: Länkar
+
+post:
+  posted: Postad
+  edited: Redigerad
+  created: Skapad
+  modified: Ändrad
+  edit: Redigera inlägget
+  in: I
+  read_more: Läs mer
+  untitled: Utan titel
+  sticky: Sticky
+  views: Visningar
+  related_posts: Related Posts
+  copyright:
+    author: Författare
+    link: Länk
+    post_author: Skriven av
+    post_link: Ursprungligen publicerad som
+    license_title: Upphovsrätt
+    license_content: "Alla inlägg publicerade under %s om inget annat anges."
+
+footer:
+  powered: "Drivs av %s"
+  total_views: Visningar totalt
+  total_visitors: Besökare totalt
+
+widget:
+  github: Följ mig på GitHub
+  chat: Chatta
+
+counter:
+  tag_cloud:
+    zero: Inga etiketter
+    one: Totalt 1 etikett
+    other: "Totalt %d etiketter"
+
+  categories:
+    zero: Inga kategorier
+    one: Totalt 1 kategori
+    other: "Totalt %d kategorier"
+
+  archive_posts:
+    zero: Inga inlägg.
+    one: Totalt 1 inlägg.
+    other: "Totalt %d inlägg."
+
+state:
+  posts: inlägg
+  tags: etiketter
+  categories: kategorier
+
+search:
+  placeholder: Söker...
+  empty: "Vi fann inga resultat för följande sökning: %s"
+  hits_time: "%s sökresultat på %s ms"
+  hits: "%s sökresultat"
+
+cheers:
+  um: Um..
+  ok: OK
+  nice: Nice
+  good: Good
+  great: Great
+  excellent: Excellent
+
+keep_on: Keep on posting.
+
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+
+reward:
+  donate: Donate
+  wechatpay: WeChat Pay
+  alipay: Alipay
+  paypal: PayPal
+  bitcoin: Bitcoin
+  comment: Buy me a coffee
+
+follow_me:
+  welcome: Welcome to my other publishing channels
+
+accessibility:
+  nav_toggle: Toggle navigation bar
+  prev_page: Previous page
+  next_page: Next page
+  back_to_top: Back to top
+  select_lang: Select language
+
+symbols_count_time:
+  count: Antal ord
+  count_total: Antal ord totalt
+  time: Lästid
+  time_total: Lästid totalt
+  time_minutes: minuter
